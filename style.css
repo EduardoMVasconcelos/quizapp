@@ -24,8 +24,8 @@
 
 body.escuro {
     --bg-color: #313E51;
-    --bg-mobile: url(assets/images/pattern-background-mobile-dark.svg);
-    --bg-desktop: url(assets/images/pattern-background-desktop-dark.svg);
+    --bg-mobile: url(./assets/images/pattern-background-mobile-dark.svg);
+    --bg-desktop: url(./assets/images/pattern-background-desktop-dark.svg);
     --primary-text-color: #FFF;
     --secundary-text-color: #ABC1E1;
     --button-bg: #3B4D66;
