@@ -153,9 +153,9 @@ main {
     header {
         margin-block: 81px;
         max-width: 1160px;
-        margin-inline: auto;
-    }
-
+        margin-inline: auto; 
+    } 
+    /* ajuste feito */
     .tema {
         gap: 16px;
     }
